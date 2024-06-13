@@ -3,7 +3,8 @@
 #FILE NAME: main.py
 #Python app that will accept student names and GPAs and 
 # test if the student qualifies for either the Dean's List or the Honor Roll.
-
+#first_name,last_name:string
+#GPA: float
 
 while True:
     last_name = input("Your last name OR enter ZZZ to quit: ")
